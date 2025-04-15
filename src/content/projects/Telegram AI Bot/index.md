@@ -32,7 +32,7 @@ The idea came to life on a Sunday after reading an inspiring post by David Hurta
 
 ### 🧠 Why this project?
 
-> RecruiterBot shows how LLMs can turn passive job searching into an interactive learning experience. Imagine integrating this into job boards like LinkedIn, InfoJobs, or Manfred — instantly turning postings into personal mock interviews.
+> RecruiterBot shows how LLMs can turn passive job searching into an interactive learning experience. Imagine integrating this into job boards like LinkedIn, InfoJobs, or Manfred — instantly turning postings into personal mock interviews. 
 
 ---
 
